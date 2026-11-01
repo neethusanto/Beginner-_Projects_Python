@@ -19,3 +19,4 @@ A terminal-based digital contact management tool supporting rich contact attribu
 ```bash
 python contact_book.py
 ```
+

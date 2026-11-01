@@ -1,0 +1,7 @@
+# Standard library dependencies only.
+# Python 3.8+ recommended.
+
+# Optional development tools:
+pytest>=7.4.0
+flake8>=6.1.0
+black>=23.7.0
