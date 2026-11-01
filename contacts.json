@@ -1,0 +1,16 @@
+{
+    "alice smith": {
+        "name": "Alice Smith",
+        "phone": "+1-555-0101",
+        "email": "alice.smith@example.com",
+        "category": "Work",
+        "address": "100 Innovation Way"
+    },
+    "bob johnson": {
+        "name": "Bob Johnson",
+        "phone": "+1-555-0102",
+        "email": "bob.j@example.com",
+        "category": "Personal",
+        "address": "452 Maple Street"
+    }
+}
